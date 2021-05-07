@@ -1,2 +1,2 @@
-# JavaCampHoeworks
+# JavaCampHomeworks
 Includes camp homeworks
